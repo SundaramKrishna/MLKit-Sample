@@ -3,13 +3,13 @@ ML Kit Text recognition (OCR)
 
 This project is sample attempt for MLKit Text Recognition(OCR) On-device scanning. Cloud based services need to change plan from Spark Free ($0/month) to Blaze (Pay as you go)
 
-![Alt text](https://ibb.co/i98PQJ "")
+![ScreenShot1](https://raw.githubusercontent.com/SundaramKrishna/MLKit-Sample/master/screenshots/screen1.png "")
 
 
-![Alt text](https://ibb.co/ejhUsy "")
+![ScreenShot2](https://raw.githubusercontent.com/SundaramKrishna/MLKit-Sample/master/screenshots/screen2.png "")
 
 
-![Alt text](https://ibb.co/gRpLzd "")
+![ScreenShot3](https://raw.githubusercontent.com/SundaramKrishna/MLKit-Sample/master/screenshots/screen2.png "")
 
 
 
