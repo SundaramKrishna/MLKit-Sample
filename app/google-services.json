@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "721951833815",
+    "firebase_url": "https://fir-test-503ef.firebaseio.com",
+    "project_id": "fir-test-503ef",
+    "storage_bucket": "fir-test-503ef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:721951833815:android:693c00b96c712e8c",
+        "android_client_info": {
+          "package_name": "com.google.firebase.codelab.mlkit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "721951833815-pm52re0gbu17f01ucpdv0ken5vuehnbk.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "721951833815-pm52re0gbu17f01ucpdv0ken5vuehnbk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCb1yXMZjCEFkeajud3fbT09nmPqhYsyC0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
