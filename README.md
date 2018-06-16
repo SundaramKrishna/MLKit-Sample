@@ -5,11 +5,7 @@ This project is sample attempt for MLKit Text Recognition(OCR) On-device scannin
 
 ![ScreenShot1](https://raw.githubusercontent.com/SundaramKrishna/MLKit-Sample/master/screenshots/screen1.png "")
 
-
-![ScreenShot2](https://raw.githubusercontent.com/SundaramKrishna/MLKit-Sample/master/screenshots/screen2.png "")
-
-
-![ScreenShot3](https://raw.githubusercontent.com/SundaramKrishna/MLKit-Sample/master/screenshots/screen2.png "")
+![ScreenShot2](https://raw.githubusercontent.com/SundaramKrishna/MLKit-Sample/master/screenshots/screen3.png "")
 
 
 
